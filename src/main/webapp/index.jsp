@@ -29,7 +29,7 @@
     <!--START HERE-->
     <div class="nav navbar navbar-expand-sm navbar-dark bg-dark">
       <div class="container">
-        <a href="index.html" class="navbar-brand">Yammi Pizza</a>
+        <a href="index.jsp" class="navbar-brand">Yammi Pizza</a>
         <button
           class="navbar-toggler"
           data-toggle="collapse"
@@ -135,7 +135,7 @@
               dolores vero accusamus perferendis doloribus eius? Illum quisquam
               perspiciatis maxime illo.
             </p>
-            <a href="about.html" class="btn btn-outline-danger btn-lg"
+            <a href="about.jsp" class="btn btn-outline-danger btn-lg"
             >Order</a
             >
           </div>

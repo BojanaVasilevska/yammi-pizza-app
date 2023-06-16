@@ -37,7 +37,7 @@
     <!--START HERE-->
     <div class="nav navbar navbar-expand-sm navbar-dark bg-dark">
       <div class="container">
-        <a href="index.html" class="navbar-brand">Yammi Pizza</a>
+        <a href="index.jsp" class="navbar-brand">Yammi Pizza</a>
         <button
                 class="navbar-toggler"
                 data-toggle="collapse"
